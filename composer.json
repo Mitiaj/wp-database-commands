@@ -1,0 +1,14 @@
+{
+    "name": "michal/wp-database-commands",
+    "description": "Set of bash commands to manage wordpress database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steve",
+            "email": "michal@cnvrsn.team"
+        }
+    ],
+    "require": {},
+    "bin": ["bin/database-dump.sh", "bin/database-restore.sh"]
+}
