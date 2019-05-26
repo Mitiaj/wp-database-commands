@@ -1,5 +1,5 @@
 {
-    "name": "michal/wp-database-commands",
+    "name": "cnvrsnteam/wp-database-commands",
     "description": "Set of bash commands to manage wordpress database",
     "type": "library",
     "license": "MIT",
